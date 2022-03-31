@@ -1,0 +1,126 @@
+.main {
+  margin-right: 2%;
+}
+li a {
+  float: right;
+  color: hsl(246deg 100% 56%);
+  display: block;
+  padding: 1%;
+  margin-top: 0%;
+  padding-top: 0%;
+}
+ul {
+  list-style-type: none;
+  margin-right: 8%;
+  margin-top: 0%;
+  padding-top: 0%;
+}
+
+#site {
+  margin-top: 4%;
+  margin-left: 3%;
+}
+.content1 {
+  margin-top: 0%;
+  margin-left: 2%;
+  word-spacing: 0%;
+  line-height: 2%;
+  background-color: hsl(0deg 0% 93%);
+  padding-top: 1%;
+  padding-left: 1%;
+  padding-bottom: 1%;
+}
+#p1 {
+  color: hsl(0deg 0% 9%);
+  font-weight: bolder;
+}
+
+.first {
+  float: left;
+  background-color: hsl(0deg 0% 93%);
+  margin-right: 2%;
+  margin-top: 2%;
+  width: 24%;
+  padding: 3%;
+  margin-left: 0%;
+}
+.second {
+  float: left;
+  background-color: hsl(0deg 0% 93%);
+  width: 24%;
+  margin-top: 2%;
+  padding: 3%;
+}
+.third {
+  float: left;
+  background-color: hsl(0deg 0% 93%);
+  margin-top: 2%;
+  margin-left: 2%;
+  width: 23%;
+  padding: 3%;
+  margin-right: 5%;
+}
+.content2 {
+    padding-left: 10%;
+}
+.fourth {
+    float: left;
+    width: 25%;
+    margin: 1%;
+    text-align: center;
+    line-height: 0%;
+    margin-left: 12%;
+  }
+  .fifth {
+    float: left;
+    width: 25%;
+    margin: 1%;
+    text-align: center;
+    line-height: 0%;
+  }
+  .sixth {
+    float: left;
+    width: 25%;
+    margin: 1%;
+    text-align: center;
+    line-height: 0%;
+  }
+  .content3 {
+      left: 50%;
+  }
+  .subscribe {
+    position: absolute;
+    top: 78%;
+    margin-left: 2%;
+    background-color: hsl(0deg 0% 93%);;;
+    padding-left: 20%;
+    padding-right: 49%;
+    padding-top: 0.5%;
+    padding-bottom: 0%;
+  }
+  #subs {
+    font-size: 25px;
+    font-weight: bolder;
+  }
+  #final {
+    background-color:hsl(205deg 68% 48%);
+    color: white;
+    display: inline-block;
+  }
+  
+  .button {
+    display: block;
+    margin-top: 23.5%;
+
+  }
+  .copy {
+    float: left;
+    margin-left: 4%;
+    top: 60%;
+  }
+  .ced {
+    float: right;
+    margin-right: 3%;
+    margin-top: 0%;
+    top: 80%;
+  }
